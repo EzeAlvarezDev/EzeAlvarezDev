@@ -15,7 +15,7 @@ Building modern web & mobile experiences with a focus on
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FOLLYDEV-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://follydev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FOLLYDEV-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ezealvarezdev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-EZEQUIEL%20ALVAREZ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-alvarez-0040b0409/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLYDEV-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo_ezequiel_alvarez_/)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-EZEQUIEL%20ALVAREZ-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011284069003)
